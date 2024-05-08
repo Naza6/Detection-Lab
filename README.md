@@ -1,6 +1,6 @@
 # Detection-Lab
 
-# PROJECTNAME
+# AZURE LAB
 
 ## Objective
 [Brief Objective - Remove this afterwards]

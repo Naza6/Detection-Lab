@@ -21,7 +21,6 @@ The Detection Lab project aimed to establish a controlled environment for simula
 - Splunk
 - Sysmon
 - Atomic Red Team
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
 
 ## Steps
 
@@ -31,5 +30,3 @@ The Detection Lab project aimed to establish a controlled environment for simula
 Using a Mac '_'
 
 
-*Ref 1: Network Diagram*
-![image](https://github.com/Naza6/Detection-Lab/assets/122112316/f82aae3c-ef51-46d6-b869-3d9548e5e001)
